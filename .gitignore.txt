@@ -1,0 +1,10 @@
+.idea/
+build/
+gradle/
+.gradle/
+build.gradle.kts
+gradle.properties
+local.properties
+setting.gradle.kts
+gradlew.bt
+
